@@ -1,0 +1,582 @@
+﻿7324 13:10:08 WARN  A duplicate setting "ContentSearch.SearchMaxResults" has been detected in the Sitecore.ContentSearch.Solr.DefaultIndexConfiguration.config file. The value of the setting will be changed to "500".
+7324 13:10:08 WARN  A duplicate setting "ContentSearch.DefaultIndexConfigurationPath" has been detected in the Sitecore.ContentSearch.Solr.DefaultIndexConfiguration.config file. The value of the setting will be changed to "contentSearch/indexConfigurations/defaultSolrIndexConfiguration".
+7324 13:10:08 INFO  HttpModule is being initialized
+7324 13:10:09 INFO  
+7324 13:10:09 INFO  **********************************************************************
+7324 13:10:09 INFO  **********************************************************************
+7324 13:10:09 INFO  Sitecore started
+7324 13:10:09 INFO  Sitecore.NET 8.0 (rev. 150621)
+7324 13:10:09 INFO  
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\antlr3.runtime.dll (Antlr3.Runtime)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\componentart.web.ui.dll ()
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\csquery.dll (CsQuery, CsQuery is a CSS selector engine and jQuery port for .NET 4 and C#)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\customfields.accountselector.dll (AccountSelectorAssembly)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\dotnetopenauth.dll (DotNetOpenAuth, 1c99bf16c5b570cadcf27d0b9ce3d598d06b34ca)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\ecmascript.net.dll (Modified version of the EcmaScript.NET assembly)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\facebook.dll (Facebook C# SDK, Facebook C# SDK)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\facebookapi.dll (FacebookAPI)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\google.apis.authentication.oauth2.dll (OAuth2 Authentication Library)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\google.apis.dll ()
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\google.apis.plus.v1.dll (Google.Apis.Plus.v1)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\hammock.clientprofile.dll (Hammock)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\htmlagilitypack.dll (Html Agility Pack, 1.4.6.0)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\iesi.collections.dll (Iesi.Collections, Enhanced Collections for .NET.  Code was published at http://www.codeproject.com/csharp/sets.asp, 1.0)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\ithit.webdav.server.dll (WebDav Server .Net v2, IT Hit WebDAV Server .Net v2)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.contrib.analyzers.dll (Lucene.Net.Contrib.Analyzers)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.contrib.core.dll (Lucene.Net.Contrib.Core, Contributions to the Lucene.Net core library)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.contrib.fastvectorhighlighter.dll (Lucene.Net.Contrib.FastVectorHighlighter, FastVectorHighlighter for Lucene.Net)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.contrib.highlighter.dll (Lucene.Net.Contrib.Highlighter, The Apache Software Foundation Lucene.Net a full-text search engine library, 2.3.2)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.contrib.memory.dll (Contrib.Memory)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.contrib.queries.dll (Lucene.Net.Contrib.Queries)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.contrib.regex.dll (Lucene.Net.Contrib.Regex)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.contrib.simplefacetedsearch.dll (Lucene.Net.SimpleFacetedSearch, SimpleFacetedSearch for Lucene.Net)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.contrib.snowball.dll (Lucene.Net.Contrib.Snowball, The Apache Software Foundation Lucene.Net a full-text search engine library, 2.0)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.contrib.spellchecker.dll (SpellChecker.Net, The Apache Software Foundation Lucene.Net a full-text search engine library, 3.0.3)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\lucene.net.dll (Lucene.Net, The Apache Software Foundation Lucene.Net a full-text search engine library, 3.0.3)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\microsoft.web.infrastructure.dll (Microsoft ASP.Net WebPages)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\mongodb.bson.dll (MongoDB.Bson, Official 10gen supported C# BSON library. See http://www.mongodb.org/display/DOCS/CSharp+Language+Center for more details, {version: '1.8.3.9', semver: '1.8.3', commit: '28c1204b9d0e70ca2648a6f90f9a29035e7ad62c', commit_date: '2013-09-30 12:07:25'})
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\mongodb.driver.dll (MongoDB.Driver, Official 10gen supported C# driver for MongoDB.  See http://www.mongodb.org/display/DOCS/CSharp+Language+Center for more details, {version: '1.8.3.9', semver: '1.8.3', commit: '28c1204b9d0e70ca2648a6f90f9a29035e7ad62c', commit_date: '2013-09-30 12:07:25'})
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\mvp.xml.dll (MVP XML Library)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\newtonsoft.json.dll (Json.NET, Json.NET is a popular high-performance JSON framework for .NET)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\oauthlinkedin.dll (OAuthLinkedIn)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\protobuf-net.dll (protobuf-net, Protocol Buffers for .NET)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\radeditor.net2.dll (RadEditor, Telerik RadEditor)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.abstractions.dll (Sitecore Buckets, 1.0.0 rev. 140127)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.aggregation.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.automation.aggregation.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.automation.dll (Sitecore EAS, Sitecore Engagement Automation Suite, 8.0 rev. 150621)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.automation.mongodb.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.core.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.dataaccess.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:09 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.dll (Sitecore DMS, Sitecore Digital Marketing System, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.model.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.mongodb.dll (Sitecore DMS, Sitecore Digital Marketing System MongoDB Connector, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.omnichannel.dll (Sitecore Analytics Channel Provider, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.outcome.dll (Sitecore.Analytics.Outcome, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.processing.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.robotdetection.dll (Sitecore Robot Detection, 1.0.0 rev. 150205)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.analytics.sql.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.apps.loader.dll (Sitecore.Apps.Loader, 1.0.0 rev. 130822)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.apps.taginjection.dll (Sitecore Tag Management, 1.0.0 rev. 140814)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.buckets.client.dll (Sitecore Buckets, The assembly can be used to have Sitecore queries driven via a query, 1.0.0 rev. 150612)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.buckets.dll (Sitecore Buckets, The assembly can be used to have Sitecore queries driven via search providers, 1.0.0 rev. 150612)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.cintel.client.dll (Sitecore Experience Profile, 1.0.0 rev. 150205)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.cintel.dll (Sitecore Experience Profile, 1.0.0 rev. 150205)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.client.dll (Sitecore CMS, Sitecore Client Application, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.client.licenseoptions.dll (Sitecore Speak Applications, 1.3.1 rev. 150529)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.cloud.contentsearch.dll (Sitecore.Cloud.ContentSearch, 8.0 rev. 150403)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.cloud.nexus.dll (Sitecore.Cloud.Nexus)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.cloud.restclient.dll (Sitecore.Cloud.RestClient)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.cloud.servicemodel.dll (Sitecore.Cloud.ServiceModel)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.cloud.xdb.dll (Sitecore.Cloud.Xdb, 8.0 rev. 150612)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.cloud.xdb.servicemodel.dll (Sitecore.Cloud.ScS.Xdb.Discovery.ServiceModel)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.contentsearch.analytics.client.dll (Sitecore Buckets, 1.0.0 rev. 150612)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.contentsearch.analytics.dll (Sitecore Buckets, 1.0.0 rev. 150612)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.contentsearch.client.dll (Sitecore Buckets, 1.0.0 rev. 150612)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.contentsearch.dll (Sitecore Buckets, Sitecore CMS Search, 1.0.0 rev. 150612)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.contentsearch.linq.dll (Sitecore Buckets, Sitecore CMS Search, 1.0.0 rev. 150612)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.contentsearch.linq.lucene.dll (Sitecore Buckets, 1.0.0 rev. 150612)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.contentsearch.luceneprovider.dll (Sitecore Buckets, Sitecore CMS Search, 1.0.0 rev. 150612)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.contenttesting.dll (Sitecore CMS)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.contenttesting.intelligence.dll (Sitecore CMS)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.contenttesting.mvc.dll (Sitecore CMS)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.controlpanel.dll (Sitecore Speak Applications, 1.3.1 rev. 150529)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.experienceanalytics.client.dll (Sitecore Experience Analytics, 1.0.2 rev. 150618)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.experienceanalytics.dll (Sitecore Experience Analytics, 1.0.2 rev. 150618)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.experienceeditor.dll (Sitecore Experience Editor, 1.0.0 rev. 150406)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.experienceeditor.speak.dll (Sitecore Experience Editor, 1.0.0 rev. 150406)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.experienceeditor.speak.ribbon.dll (Sitecore Experience Editor, 1.0.0 rev. 150406)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.experienceexplorer.business.dll (Sitecore.ExperienceExplorer.Business, 1.0.0.0 rev. 0)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.experienceexplorer.web.dll (Sitecore.ExperienceExplorer, The Experience Explorer is intended to seamlessly enable marketers to explorer their web-site as experienced by their primary target audiences. With a single, integrated solution, the module allows marketers to create and impersonate themselves as pre-defined arch-types and discover new capabilities of their site. With improved insights and awareness of the sites personalization and behavior, the module allows marketers to become more efficiently in maximizing the business value for their customers using the Sitecore Customer Engagement Platform, 1.0.0.0 rev. 0)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.fxm.client.dll (Sitecore Federated Experience Manager, 10.1 rev. 150315 )
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.fxm.dll (Sitecore Federated Experience Manager, 10.1 rev. 150315 )
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.fxm.service.dll (Sitecore Federated Experience Manager, 10.1 rev. 150315 )
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.fxm.speak.dll (Sitecore Federated Experience Manager, 10.1 rev. 150315 )
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.itemwebapi.dll (Sitecore Item Web API, 1.2.0 rev. 141016)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.kernel.dll (Sitecore CMS, Sitecore CMS Kernel Library, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.launchpad.dll (Sitecore LaunchPad, 1.0 rev. 150403)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.listmanagement.analytics.dll (Sitecore List Manager, 1.0.4 rev. 150603)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.listmanagement.client.dll (Sitecore List Manager, 1.0.4 rev. 150603)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.listmanagement.contentsearch.dll (Sitecore List Manager, 1.0.4 rev. 150603)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.listmanagement.dll (Sitecore List Manager, 1.0.4 rev. 150603)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.listmanagement.services.dll (Sitecore List Manager, 1.0.4 rev. 150603)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.logging.dll (Sitecore CMS, Sitecore Logging Framework, 6.6.0 rev. 120918)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.marketing.client.dll (Sitecore.Marketing.Client, 1.0.0 rev. 141201)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.marketing.definitions.marketingassets.repositories.dll (Sitecore Marketing Asset Repositories 1.0.0, 1.0.0 rev. 150126)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.marketing.dll (Sitecore.Marketing, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.marketing.taxonomy.dll (Sitecore.Marketing.Taxonomy, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.mvc.analytics.dll (Sitecore Mvc Analytics 1.0.0, 1.0.0 rev. 141017)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.mvc.devicesimulator.dll (Sitecore Mvc Device Simulators 1.0.0, 1.0.0 rev. 140611)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.mvc.dll (Sitecore Mvc 1.0.0, 1.0.0 rev. 150127)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.mvc.experienceeditor.dll (Sitecore Mvc Experience Editor, 1.0.0 rev. 150323)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.nexus.dll (Sitecore.Nexus)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.nvelocity.dll (Sitecore CMS, Sitecore Macro Expansion Library, 6.6.0 rev. 120918)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.oracle.dll (Sitecore CMS, Oracle Data Provider for Sitecore, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.pathanalyzer.client.dll (Sitecore.PathAnalyzer.Client)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.pathanalyzer.dll (Sitecore.PathAnalyzer)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.pathanalyzer.services.dll (Sitecore.PathAnalyzer.Services)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.publishing.webdeploy.dll (Sitecore CMS, Sitecore publishing infrastructure based on Web Deployment Tool, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.security.anticsrf.dll (Sitecore AntiCSRF Module 1.0.0, 1.0.0 rev. 141119)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.segmentbuilder.dll (Sitecore Segment Builder 1.0.0, 1.0.0 rev. 150204)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.sequenceanalyzer.dll (Sitecore.SequenceAnalyzer)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.services.client.dll (Sitecore Services 1.0.0, Sitecore Services, 1.0.0)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.services.core.dll (Sitecore Services 1.0.0, Sitecore Services, 1.0 rev. 141114)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.services.infrastructure.dll (Sitecore Services 1.0.0, Sitecore Services, 1.0 rev. 141114)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.services.infrastructure.sitecore.dll (Sitecore Services 1.0.0, Sitecore Services, 1.0 rev. 141114)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.sessionprovider.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.sessionprovider.memory.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.sessionprovider.mongodb.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.sessionprovider.sql.dll (Sitecore CMS, 8.0 rev. 150621)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.shell.marketingautomation.dll (Sitecore Engagement Automation Suite 1.0.0, 1.0.0 rev. 150217)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.api.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.client.api.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.client.common.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.client.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.client.domain.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.client.mvc.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.client.speak.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.configuration.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.domain.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.experienceprofile.client.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.facebook.api.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.facebook.client.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.facebook.client.mvc.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.facebook.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.googleplus.client.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.googleplus.client.mvc.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.googleplus.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.infrastructure.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.infrastructure.logging.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.installation.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.klout.api.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.klout.client.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:10 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.linkedin.client.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.linkedin.client.mvc.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.linkedin.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.networkproviders.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.sitecoreaccess.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.socialmarketer.api.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.socialmarketer.client.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.socialmarketer.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.twitter.api.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.twitter.client.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.twitter.client.mvc.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.social.twitter.dll (Social Connected Module, 8.0 rev. 150528)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.speak.applications.dll (Sitecore Speak Applications, 1.3.1 rev. 150529)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.speak.charting.dll (Sitecore Speak Charting, 1.1.0 rev. 141203)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.speak.client.dll (Sitecore Speak Demo, 1.3.4 rev. 150520)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.speak.itemwebapi.dll (Sitecore Speak Demo, 1.3.4 rev. 150520)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.speak.mvc.dll (Sitecore Speak Demo, 1.3.4 rev. 150520)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.speak.web.dll (Sitecore Speak Demo, 1.3.4 rev. 150520)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.update.dll (Sitecore Update Installation Wizard, 1.0.0 rev. 150619)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.web.dll (Sitecore.Web 1.0.0, 1.0.0 rev. 141110)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\sitecore.zip.dll (Sitecore CMS, ZIP support for Sitecore, 7.0.0)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\stimulsoft.base.dll (Stimulsoft Reports, Stimulsoft Base)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\stimulsoft.database.dll (Stimulsoft Reports, Stimulsoft Reports Database Helper)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\stimulsoft.report.dll (Stimulsoft Reports, Stimulsoft Reports Engine)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\stimulsoft.report.web.dll (Stimulsoft Reports.Web, Stimulsoft Reports.Web Viewer)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\stimulsoft.report.webdesign.dll (Stimulsoft Reports Designer.Web, Stimulsoft Reports Designer.Web)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.net.http.dll (Microsoft® .NET Framework, System.Net.Http.dll, 4.6.1038.0)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.net.http.formatting.dll (Microsoft ASP.NET MVC, 5.1.1-20129 (54866f0d3262d0fccfc2cb463f003459fcabd6c8))
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.net.http.webrequest.dll (Microsoft® .NET Framework, System.Net.Http.WebRequest.dll, 4.6.1038.0)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.cors.dll (Microsoft ASP.NET MVC, 5.1.0-20110)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.helpers.dll (Microsoft ASP.NET Web Pages, 3.0.1-20129 (54866f0d3262d0fccfc2cb463f003459fcabd6c8))
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.http.cors.dll (Microsoft ASP.NET MVC, 5.1.0-20110)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.http.dll (Microsoft ASP.NET MVC, 5.1.1-20129 (54866f0d3262d0fccfc2cb463f003459fcabd6c8))
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.http.webhost.dll (Microsoft ASP.NET MVC, 5.1.1-20129 (54866f0d3262d0fccfc2cb463f003459fcabd6c8))
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.mvc.dll (Microsoft ASP.NET MVC, System.Web.Mvc.dll, 5.1.1-20129 (54866f0d3262d0fccfc2cb463f003459fcabd6c8))
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.optimization.dll (System.Web.Optimization)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.razor.dll (Microsoft ASP.NET Web Pages, 3.0.1-20129 (54866f0d3262d0fccfc2cb463f003459fcabd6c8))
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.webpages.deployment.dll (Microsoft ASP.NET Web Pages, 3.0.1-20129 (54866f0d3262d0fccfc2cb463f003459fcabd6c8))
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.webpages.dll (Microsoft ASP.NET Web Pages, 3.0.1-20129 (54866f0d3262d0fccfc2cb463f003459fcabd6c8))
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\system.web.webpages.razor.dll (Microsoft ASP.NET Web Pages, 3.0.1-20129 (54866f0d3262d0fccfc2cb463f003459fcabd6c8))
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\telerik.web.ui.dll (Telerik.Web.UI, Telerik RadControls for ASP.NET Ajax)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\telerik.web.ui.skins.dll (Telerik RadControls for ASP.NET Ajax Skins)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\tweetsharp.dll (TweetSharp)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\webgrease.dll (WebGrease)
+7324 13:10:11 INFO  c:\inetpub\wwwroot\trainingsitecore\website\bin\yahoo.yui.compressor.dll (YUI Compressor, A .NET port of the Yahoo! YUI Compressor project)
+7324 13:10:11 INFO  
+7324 13:10:11 INFO  Operating system Microsoft Windows NT 10.0.10586.0
+7324 13:10:11 INFO  
+7324 13:10:11 INFO  Microsoft.NET version 4.0.30319.42000
+7324 13:10:11 INFO  
+7324 13:10:11 INFO  UTC offset: 07:00:00
+7324 13:10:11 INFO  Machine name: DESKTOP-KS0TRF3
+7324 13:10:11 INFO  App pool ID: TrainingSitecoreAppPool
+7324 13:10:11 INFO  
+7324 13:10:11 INFO  Process ID: 1160
+7324 13:10:11 INFO  Windows identity used by the process: NT AUTHORITY\NETWORK SERVICE. Impersonation: False
+7324 13:10:11 INFO  Managed pipeline mode: Integrated
+7324 13:10:11 INFO  
+7324 13:10:11 INFO  EventQueues enabled: True
+7324 13:10:11 INFO  Instance Name:DESKTOP-KS0TRF3-TrainingSitecore
+7324 13:10:11 INFO  
+7324 13:10:11 INFO  Threshold settings
+7324 13:10:11 INFO    Show threshold warnings: False
+7324 13:10:11 INFO  
+7324 13:10:11 INFO  Databases
+7324 13:10:11 INFO    core
+7324 13:10:11 INFO    master
+7324 13:10:11 INFO    web
+7324 13:10:11 INFO    filesystem
+7324 13:10:11 INFO  
+7324 13:10:11 INFO  Domains
+7324 13:10:11 INFO  Heartbeat - Initializing
+7324 13:10:11 INFO  Heartbeat - Interval set to: 00:00:02
+7324 13:10:11 INFO  Heartbeat - Worker thread started
+7324 13:10:11 INFO  Trying to load XML configuration /App_Config/Security/Domains.config
+7324 13:10:11 INFO    sitecore
+7324 13:10:11 INFO    extranet
+7324 13:10:11 INFO    default
+7324 13:10:11 INFO  **********************************************************************
+7324 13:10:11 INFO  **********************************************************************
+7324 13:10:11 INFO  Attempting to get ASP.NET process history
+7324 13:10:11 WARN  No process history available
+7324 13:10:12 INFO  Cache created: 'LanguageProvider - Languages' (max size: 100KB, running total: 100KB)
+7324 13:10:12 INFO  Cache created: 'DeviceItemsCache' (max size: 50MB, running total: 50MB)
+7324 13:10:12 INFO  Cache created: 'core[data]' (max size: 100MB, running total: 150MB)
+7324 13:10:12 INFO  Cache created: 'core[items]' (max size: 50MB, running total: 200MB)
+7324 13:10:12 INFO  Cache created: 'core[paths]' (max size: 2MB, running total: 202MB)
+7324 13:10:12 INFO  Cache created: 'core[standardValues]' (max size: 2MB, running total: 204MB)
+7324 13:10:12 INFO  Cache created: 'core[itempaths]' (max size: 50MB, running total: 254MB)
+7324 13:10:13 INFO  Cache created: 'core[blobIDs]' (max size: 500KB, running total: 255MB)
+7324 13:10:13 INFO  Cache created: 'master[data]' (max size: 100MB, running total: 355MB)
+7324 13:10:13 INFO  Cache created: 'master[items]' (max size: 50MB, running total: 405MB)
+7324 13:10:13 INFO  Cache created: 'master[paths]' (max size: 2MB, running total: 407MB)
+7324 13:10:13 INFO  Cache created: 'master[standardValues]' (max size: 2MB, running total: 410MB)
+7324 13:10:13 INFO  Cache created: 'master[itempaths]' (max size: 50MB, running total: 460MB)
+7324 13:10:13 INFO  Cache created: 'master[blobIDs]' (max size: 500KB, running total: 460MB)
+7324 13:10:13 INFO  Cache created: 'web[data]' (max size: 100MB, running total: 560MB)
+7324 13:10:13 INFO  Cache created: 'web[items]' (max size: 50MB, running total: 610MB)
+7324 13:10:13 INFO  Cache created: 'web[paths]' (max size: 2MB, running total: 613MB)
+7324 13:10:13 INFO  Cache created: 'web[standardValues]' (max size: 2MB, running total: 615MB)
+7324 13:10:13 INFO  Cache created: 'web[itempaths]' (max size: 50MB, running total: 665MB)
+7324 13:10:13 INFO  Cache created: 'web[blobIDs]' (max size: 500KB, running total: 666MB)
+7324 13:10:13 INFO  Cache created: 'filesystem[data]' (max size: 0 bytes, running total: 666MB)
+7324 13:10:13 INFO  Cache created: 'filesystem[items]' (max size: 0 bytes, running total: 666MB)
+7324 13:10:13 INFO  Cache created: 'filesystem[paths]' (max size: 0 bytes, running total: 666MB)
+7324 13:10:13 INFO  Cache created: 'filesystem[standardValues]' (max size: 0 bytes, running total: 666MB)
+7324 13:10:13 INFO  Cache created: 'filesystem[itempaths]' (max size: 50MB, running total: 716MB)
+7324 13:10:13 INFO  Cache created: 'filesystem[blobIDs]' (max size: 500KB, running total: 716MB)
+ManagedPoolThread #12 13:10:13 INFO  Trying to load XML configuration /App_Config/Security/Domains.config
+Heartbeat 13:10:15 INFO  Cache created: 'SqlDataProvider - Property data(core)' (max size: 500KB, running total: 717MB)
+Heartbeat 13:10:16 INFO  Cache created: 'SqlDataProvider - Property data(master)' (max size: 500KB, running total: 717MB)
+Heartbeat 13:10:16 INFO  Cache created: 'SqlDataProvider - Property data(web)' (max size: 500KB, running total: 718MB)
+6568 13:10:19 INFO  Config file renamed: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\ListManagement\Sitecore.ListManagement.Lucene.Index.List.config.disabled. Old path: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\ListManagement\Sitecore.ListManagement.Lucene.Index.List.config
+6568 13:10:36 INFO  Config file renamed: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\ListManagement\Sitecore.ListManagement.Lucene.IndexConfiguration.config.disabled. Old path: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\ListManagement\Sitecore.ListManagement.Lucene.IndexConfiguration.config
+6568 13:10:53 INFO  Config file renamed: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Social\Sitecore.Social.Lucene.Index.Master.config.disabled. Old path: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Social\Sitecore.Social.Lucene.Index.Master.config
+7324 13:11:16 INFO  Cache created: 'SqlDataProvider - Prefetch data(core)' (max size: 50MB, running total: 768MB)
+7324 13:11:16 INFO  Cache created: 'ItemCloningRelations' (max size: 50MB, running total: 818MB)
+7324 13:11:16 INFO  Cache created: 'AccessResultCache' (max size: 10MB, running total: 828MB)
+7324 13:11:16 INFO  Cache created: 'ProxyProvider' (max size: 500KB, running total: 828MB)
+7324 13:11:16 INFO  Loading Dictionary from cache
+7324 13:11:16 INFO  MemoryMonitor initialized. Threshold: 2 GB. Interval: 00:00:05
+7324 13:11:16 INFO  [Analytics]: Started background service for 'maintenanceService'.
+7324 13:11:16 INFO  Cache created: 'taxonomy.campaigngroups' (max size: 20MB, running total: 848MB)
+7324 13:11:16 INFO  Cache created: 'taxonomy.channels' (max size: 20MB, running total: 868MB)
+7324 13:11:16 INFO  Cache created: 'taxonomy.assets' (max size: 20MB, running total: 888MB)
+7324 13:11:17 INFO  [Analytics]: Started background service for 'aggregation/aggregator'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'aggregation/contactProcessing'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'aggregation/cleanup'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'aggregation/recovery'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'aggregation/rebuildAgent'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'aggregation/historyWorker'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'aggregation/historyCompletionCheck'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'aggregation/automationAggregator'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'aggregation/automationRangeManager'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'aggregation/automationCleanupService'.
+7324 13:11:17 INFO  [Analytics]: Automation aggregation SubsystemLoader hook initialized.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'processing/taskAgent'.
+7324 13:11:17 INFO  Cache created: 'rules' (max size: 800KB, running total: 889MB)
+7324 13:11:17 INFO  Cache created: '[FieldReaderCache]' (max size: 5MB, running total: 894MB)
+7324 13:11:17 ERROR Could not resolve type name: Sitecore.ContentSearch.SolrProvider.SolrSearchIndex, Sitecore.ContentSearch.SolrProvider (method: Sitecore.Configuration.Factory.CreateFromTypeName(XmlNode configNode, String[] parameters, Boolean assert)).
+7324 13:11:17 ERROR Error loading hook: <hook type="Sitecore.ContentSearch.Hooks.Initializer, Sitecore.ContentSearch" patch:source="Sitecore.ContentSearch.config" xmlns:patch="http://www.sitecore.net/xmlconfig/" />
+Exception: System.Exception
+Message: Could not resolve type name: Sitecore.ContentSearch.SolrProvider.SolrSearchIndex, Sitecore.ContentSearch.SolrProvider (method: Sitecore.Configuration.Factory.CreateFromTypeName(XmlNode configNode, String[] parameters, Boolean assert)).
+Source: Sitecore.Configuration.Factory.CreateFromTypeName(XmlNode configNode, String[] parameters, Boolean assert)
+   at Sitecore.Diagnostics.Error.Raise(String error, String method)
+   at Sitecore.Configuration.Factory.CreateType(XmlNode configNode, String[] parameters, Boolean assert)
+   at Sitecore.Configuration.Factory.CreateFromTypeName(XmlNode configNode, String[] parameters, Boolean assert)
+   at Sitecore.Configuration.Factory.CreateObject(XmlNode configNode, String[] parameters, Boolean assert, IFactoryHelper helper)
+   at Sitecore.Configuration.Factory.GetInnerObject(XmlNode paramNode, String[] parameters, Boolean assert)
+   at Sitecore.Configuration.Factory.AssignProperties(XmlNode configNode, String[] parameters, Object obj, Boolean assert, Boolean deferred, IFactoryHelper helper)
+   at Sitecore.Configuration.Factory.CreateObject(XmlNode configNode, String[] parameters, Boolean assert, IFactoryHelper helper)
+   at Sitecore.Configuration.Factory.CreateObject(String configPath, String[] parameters, Boolean assert)
+   at Sitecore.ContentSearch.ContentSearchManager.get_SearchConfiguration()
+   at Sitecore.ContentSearch.Hooks.Initializer.Initialize()
+   at Sitecore.Events.Hooks.HookManager.LoadAll()
+
+7324 13:11:17 INFO  [Analytics]: Started background service for 'pathAnalyzer/newMapAgent'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'pathAnalyzer/dailyMapAgent'.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'pathAnalyzer/smartMergeAgent'.
+7324 13:11:17 INFO  [Path Analyzer]() Path Analyzer subsystem hook initialized.
+7324 13:11:17 INFO  [Analytics]: Started background service for 'experienceAnalytics/reduce/agent'.
+7324 13:11:17 INFO  [Experience Analytics]: ExperienceAnalytics reduce subsystem initialized.
+7324 13:11:17 INFO  Scheduler - Initializing
+7324 13:11:18 INFO  Cache created: 'UserProfileCache' (max size: 5MB, running total: 899MB)
+7324 13:11:18 INFO  Cache created: 'clientData' (max size: 25MB, running total: 924MB)
+6568 13:11:18 INFO  Config file renamed: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Social\Sitecore.Social.Lucene.Index.Web.config.disabled. Old path: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Social\Sitecore.Social.Lucene.Index.Web.config
+7324 13:11:18 INFO  Scheduler - Interval set to: 00:00:05
+7324 13:11:18 INFO  Scheduler - Worker thread started
+7324 13:11:22 INFO  Sitecore.Analytics.Automation.Diagnostics.PerformanceCounters are initialized
+7324 13:11:22 INFO  Sitecore.Analytics.Diagnostics.PerformanceCounters are initialized
+7324 13:11:23 INFO  DumpConfigurationFiles: Started
+5180 13:11:23 INFO  DumpConfigurationFiles: Dump folder is C:\Inetpub\wwwroot\TrainingSitecore\Data\\diagnostics\configuration_history\20161127Z.061123Z
+5180 13:11:25 INFO  DumpConfigurationFiles: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config has been dumped
+5180 13:11:25 INFO  DumpConfigurationFiles: C:\Inetpub\wwwroot\TrainingSitecore\Website\Web.config has been dumped
+5180 13:11:25 INFO  DumpConfigurationFiles: C:\Inetpub\wwwroot\TrainingSitecore\Website\Global.asax has been dumped
+5180 13:11:25 INFO  DumpConfigurationFiles: C:\Inetpub\wwwroot\TrainingSitecore\Website\sitecore\shell\sitecore.version.xml has been dumped
+5180 13:11:25 INFO  DumpConfigurationFiles: Zipping of the dumped configuration files is enabled
+7324 13:11:27 INFO  Sitecore.Social: The Social MVC area is registered.
+11620 13:11:32 INFO  Cache created: 'Task Manager - tasks' (max size: 100 bytes, running total: 924MB)
+5248 13:11:32 INFO  Cache created: 'ReportingStorageProviderProperties.Properties' (max size: 100 bytes, running total: 924MB)
+6568 13:11:36 INFO  Config file renamed: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Social\Sitecore.Social.Lucene.IndexConfiguration.config.disabled. Old path: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Social\Sitecore.Social.Lucene.IndexConfiguration.config
+5180 13:11:42 INFO  DumpConfigurationFiles: C:\Inetpub\wwwroot\TrainingSitecore\Data\\diagnostics\configuration_history\20161127Z.061123Z.zip has been created
+5180 13:11:43 INFO  DumpConfigurationFiles: C:\Inetpub\wwwroot\TrainingSitecore\Data\\diagnostics\configuration_history\20161127Z.061123Z has been removed
+5180 13:11:43 INFO  DumpConfigurationFiles: Completed
+11148 13:11:48 INFO  Cache created: 'ExperienceAnalytics.Segments' (max size: 20MB, running total: 944MB)
+11148 13:11:48 INFO  [Experience Analytics]: Reduce agent found zero segments to process
+6568 13:11:50 INFO  Config file renamed: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Sitecore.Marketing.Definitions.MarketingAssets.Repositories.Lucene.Index.Master.config.disabled. Old path: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Sitecore.Marketing.Definitions.MarketingAssets.Repositories.Lucene.Index.Master.config
+7324 13:11:50 INFO  Filter (Sitecore.Services.Infrastructure.Web.Http.Filters.AnonymousUserFilter) instance created
+7324 13:11:50 INFO  Filter (Sitecore.Services.Infrastructure.Web.Http.Filters.LoggingExceptionFilter) instance created
+7324 13:11:50 INFO  Filter (Sitecore.Services.Infrastructure.Web.Http.Filters.SecurityPolicyAuthorisationFilter) instance created
+7324 13:11:50 INFO  [Path Analyzer]() ApplicationContainer.Init
+7324 13:11:50 INFO  [Path Analyzer](RegisterType) Registering Sitecore.PathAnalyzer.Contracts.ISourceDataReader type with ApplicationContainer
+7324 13:11:50 INFO  [Path Analyzer](RegisterType) Registering Sitecore.SequenceAnalyzer.Data.ITreeStorage type with ApplicationContainer
+7324 13:11:50 INFO  [Path Analyzer](RegisterType) Registering Sitecore.PathAnalyzer.Data.Storage.ITreeDefinitionStorage type with ApplicationContainer
+7324 13:11:50 INFO  [Path Analyzer](RegisterType) Registering Sitecore.PathAnalyzer.Contracts.ITreeDefinitionService type with ApplicationContainer
+7324 13:11:50 INFO  [Path Analyzer](RegisterType) Registering Sitecore.PathAnalyzer.Contracts.IMapRepository type with ApplicationContainer
+7324 13:11:50 INFO  [Path Analyzer](RegisterType) Registering Sitecore.PathAnalyzer.Contracts.IConfiguration type with ApplicationContainer
+7324 13:11:50 INFO  [Path Analyzer](RegisterType) Registering Sitecore.SequenceAnalyzer.Configuration.IPruningConfig type with ApplicationContainer
+7324 13:11:50 INFO  [Path Analyzer](RegisterType) Registering Sitecore.PathAnalyzer.Contracts.IContactReader type with ApplicationContainer
+7324 13:11:50 INFO  [Path Analyzer](RegisterType) Registering Sitecore.PathAnalyzer.Contracts.IWebRequestFactory type with ApplicationContainer
+7324 13:11:50 WARN  [Path Analyzer](RegisterType) Registering Sitecore.PathAnalyzer.Contracts.IWebRequestFactory type with ApplicationContainer failed, Config entry pathAnalyzer/webRequestFactory doesn't exist
+7324 13:11:50 INFO  [Path Analyzer](RegisterModelsForSerialization) Setting serialization info
+7324 13:11:51 INFO  [Path Analyzer](RegisterModelsForSerialization) Type 'Sitecore.PathAnalyzer.Data.Models.PageNode, Sitecore.PathAnalyzer' was registered succesfully.
+7324 13:11:51 INFO  [Path Analyzer](RegisterModelsForSerialization) Type 'Sitecore.PathAnalyzer.Data.Models.PageTree, Sitecore.PathAnalyzer' was registered succesfully.
+7324 13:11:51 INFO  [Experience Analytics]: ExperienceAnalytics SegmentInitializer
+7324 13:11:51 INFO  Cache created: 'ReportDataCache' (max size: 50MB, running total: 994MB)
+4132 13:11:51 INFO  Precompiling SPEAK Views: 93
+4132 13:11:51 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Authentications\AccountInformation\AccountInformation.cshtml
+6984 13:11:51 INFO  Precompiling SPEAK Views: 60
+6984 13:11:51 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\Behaviours\StateChangeListBehavior.cshtml
+4132 13:11:51 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Behaviors\Behavior.cshtml
+7324 13:11:51 INFO  [Experience Analytics]: WebApiInitializer
+7324 13:11:51 INFO  [Experience Analytics]: Filter (Sitecore.ExperienceAnalytics.Api.Http.Filters.CacheHeaderFilterAttribute) added
+6984 13:11:51 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\ButtonGroup\ButtonGroup.cshtml
+6984 13:11:51 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\CarouselImage\CarouselImage.cshtml
+4132 13:11:51 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Charts\FusionChartsAreaChart.cshtml
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\CompareImage\CompareImage.cshtml
+7324 13:11:52 INFO  Sitecore.Social: The Social remote events are initialized.
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataRepeater\ContentTestingDataRepeater.cshtml
+4132 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Charts\FusionChartsBarChart.cshtml
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\ActivityDataSource\ActivityDataSource.cshtml
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\BaseDataSource\OptimizationBaseDataSource.cshtml
+4132 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Charts\FusionChartsColumnChart.cshtml
+4132 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Charts\FusionChartsDoughnutChart.cshtml
+4132 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Charts\FusionChartsJourneyChart.cshtml
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\BaseDataSource\OptimizationEntriesBaseDataSource.cshtml
+11240 13:11:52 INFO  HttpModule is being initialized
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\BestGuessDataSource\BestGuessingDataSource.cshtml
+4132 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Charts\FusionChartsLineChart.cshtml
+4132 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Charts\FusionChartsPieChart.cshtml
+4536 13:11:52 INFO  **************************************************
+4536 13:11:52 WARN  Sitecore shutting down
+4536 13:11:52 WARN  Shutdown message: HostingEnvironment initiated shutdown
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\ConversionRateDataSource\ConversionRateDataSource.cshtml
+4132 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Charts\FusionChartsRadarChart.cshtml
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\DurationDataSource\DurationDataSource.cshtml
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\ExpectedChangeSliderDataSource\ExpectedChangeSliderDataSource.cshtml
+4132 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\ActionControl\ActionControl.cshtml
+4132 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Buttons\BackButton.cshtml
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\ExperienceEngagementDataSource\ExperienceEngagementDataSource.cshtml
+6984 13:11:52 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\ExperienceKPIDataSource\ExperienceKPIDataSource.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Buttons\Button.cshtml
+6984 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\HighestEffectDataSource\HighestEffectDataSource.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Buttons\DropDownButton.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Buttons\ToggleButton.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\CheckBoxes\CheckBox.cshtml
+6984 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\ItemFromQueryString\ItemFromQueryString.cshtml
+6984 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\ItemInfoDataSource\ItemInfoDataSource.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\ComboBoxes\AdvancedComboBox.cshtml
+6984 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\KPIDataSource\KPIDataSource.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\ComboBoxes\ComboBox.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\ContextSwitcher\ContextSwitcher.cshtml
+6984 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\MostActiveUserDataSource\MostActiveUserDataSource.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\ControlRenderers\ControlRenderer.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\DatePickers\DatePicker.cshtml
+6984 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\OverallPerformanceDataSource\OverallPerformanceDataSource.cshtml
+6984 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\PersonalizationRuleDataSource\PersonalizationRuleDataSource.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\GlobalLogos\GlobalLogo.cshtml
+4132 13:11:53 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\HyperlinkButtons\HyperlinkButton.cshtml
+6984 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\ReachDataSource\ReachDataSource.cshtml
+6984 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\ReportingDatesDataSource\ReportingDatesDataSource.cshtml
+4132 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\HyperlinkButtons\IconHyperlinkButton.cshtml
+4132 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\IconButtons\IconButton.cshtml
+6984 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\RulePerformanceDataSource\RulePerformanceDataSource.cshtml
+4132 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Images\Image.cshtml
+4132 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Labels\Label.cshtml
+6984 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\RulesDataSource\RulesDataSource.cshtml
+6984 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\RuleSetPerformanceDataSource\RuleSetPerformanceDataSource.cshtml
+4132 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\ListBoxes\ListBox.cshtml
+4132 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\MessageBars\MessageBar.cshtml
+6984 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\SitecoreQueryDataSource\SitecoreQueryDataSource.cshtml
+6984 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\SiteUsageDataSource\SiteUsageDataSource.cshtml
+4132 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\ProgressBars\ProgressBar.cshtml
+4132 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\ProgressIndicators\ProgressIndicator.cshtml
+6984 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestCandidatesDataSource\TestCandidatesDataSource.cshtml
+6984 13:11:54 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestDefinitionDataSource\TestDefinitionDataSource.cshtml
+4132 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\RadioButtons\RadioButton.cshtml
+4132 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Separators\Separator.cshtml
+6984 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestDurationDataSource\TestDurationDataSource.cshtml
+6984 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestExpectationsDataSource\TestExpectationsDataSource.cshtml
+4132 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\SheerUI\SheerUI.cshtml
+4132 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Slider\Slider.cshtml
+6984 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestObjectivesDataSource\TestObjectivesDataSource.cshtml
+6984 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestOutcomesDataSource\TestOutcomesDataSource.cshtml
+4132 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\SubAppRenderes\SubAppRenderer.cshtml
+6984 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestsDataSource\TestsDataSource.cshtml
+6984 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestSummary\TestSummary.cshtml
+4132 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\TextAreas\TextArea.cshtml
+6984 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestVariablesDataSource\TestVariablesDataSource.cshtml
+4132 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\TextBoxes\ButtonTextBox.cshtml
+4132 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\TextBoxes\TextBox.cshtml
+6984 13:11:55 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TestVariationsDataSource\TestVariationsDataSource.cshtml
+6984 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TopClicksToPagesDataSource\TopClicksToPagesDataSource.cshtml
+4132 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Texts\Text.cshtml
+4132 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Timelines\Timeline.cshtml
+6984 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\TopGoalsDataSource\TopGoalsDataSource.cshtml
+6984 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\DataSource\VariablesDataSource\VariablesDataSource.cshtml
+4132 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\TimePickers\TimePicker.cshtml
+4132 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Common\Tooltips\ToolTip.cshtml
+6984 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\ExperienceIndicator\ExperienceIndicator.cshtml
+4132 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Configuration\SinglePageAppConfiguration.cshtml
+6984 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\FilteredComboBox\FilteredComboBox.cshtml
+6984 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\GroupedCheckboxList\GroupedCheckboxList.cshtml
+4132 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\AdvancedExpanders\AdvancedExpander.cshtml
+4132 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\Borders\Border.cshtml
+6984 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\ImageSrc\ImageSrc.cshtml
+6984 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\KPISpot\KPISpot.cshtml
+4132 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\Borders\ProtectedBorder.cshtml
+4132 13:11:56 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\ColumnPanels\ColumnPanel.cshtml
+6984 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\OptionsMapper\OptionsMapper.cshtml
+6984 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\PageThumbnail\PageThumbnail.cshtml
+4132 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\Expanders\Expander.cshtml
+4132 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\Frames\Frame.cshtml
+6984 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\ProgressBarCustom\ProgressBarCustom.cshtml
+4132 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\LoadOnDemandPanel\LoadOnDemandPanel.cshtml
+4132 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\Panels\Panel.cshtml
+6984 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\QueryStringParameterResolver\QueryStringParameterResolver.cshtml
+6984 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\ResizableFrameGrip\ResizableFrameGrip.cshtml
+4132 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\Popovers\Popover.cshtml
+4132 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\Repeaters\Repeater.cshtml
+6984 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\ScoreGainedSpot\ScoreGainedSpot.cshtml
+6984 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\SliderAdvanced\SliderAdvanced.cshtml
+4132 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\RowPanels\RowPanel.cshtml
+6984 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\StateListControl\StateListControl.cshtml
+6984 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\TestActions\TestActions.cshtml
+4132 13:11:57 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\Sections\Section.cshtml
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\SmartPanels\SmartPanel.cshtml
+6984 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\TestOptions\TestOptions.cshtml
+6984 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\UnorderedList\UnorderedList.cshtml
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Containers\TabControls\TabControl.cshtml
+6984 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\ValueBar\ValueBar.cshtml
+6984 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\WrappingLink\WrappingLink.cshtml
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Dialogs\DialogWindow.cshtml
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Forms\Uploader\Uploader.cshtml
+6984 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Applications\ContentTesting\Components\ZoomFrame\ZoomFrame.cshtml
+6984 13:11:58 INFO  Precompiling SPEAK Views: Done - time taking: 7142 milliseconds.
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Forms\UploaderInfo\UploaderInfo.cshtml
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Indicators\ArrowIndicator.cshtml
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Indicators\ValueLabel.cshtml
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\ListsAndGrids\Carousels\Carousel.cshtml
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\ListsAndGrids\ListControls\DefaultTile.cshtml
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\ListsAndGrids\ListControls\ListControl.cshtml
+4132 13:11:58 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\ListsAndGrids\TreeViews\ItemTreeView.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Navigation\Breadcrumbs\Breadcrumb.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Navigation\HyperlinkButtonsGroups\HyperlinkButtonsGroup.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Navigation\Menus\Menu.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Navigation\NavigationPanelToggleButtons\NavigationPanelToggleButton.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\SearchingAndFiltering\FilterControls\FilterControl.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\SearchingAndFiltering\Searches\SearchPanel.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Silverlight\SilverlightFrame\SilverlightFrame.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Page Structures\Application\Dashboard.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Page Structures\Application\List.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Page Structures\Application\Task.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Page Structures\Dialog\Dialog.cshtml
+11240 13:11:59 INFO  Cache created: 'SqlDataProvider - Prefetch data(web)' (max size: 50MB, running total: 1044MB)
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Page Structures\Framework\SearchResults.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Page Structures\Framework\Start.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\ApplicationContentM.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\ApplicationContentMI.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\ApplicationContentNM.cshtml
+4132 13:11:59 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\ApplicationContentNMI.cshtml
+4132 13:12:00 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\ApplicationHeader.cshtml
+4132 13:12:00 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\DialogContentM.cshtml
+4132 13:12:00 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\DialogContentMI.cshtml
+4132 13:12:00 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\DialogContentNM.cshtml
+4132 13:12:00 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\DialogFooter.cshtml
+4132 13:12:00 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\DialogHeader.cshtml
+4132 13:12:00 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\FrameworkContentM.cshtml
+4132 13:12:00 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\GlobalFooter.cshtml
+4132 13:12:00 INFO  Precompiling SPEAK View: ~\sitecore\shell\client\Business Component Library\Layouts\Renderings\Structures\Substructures\GlobalHeader.cshtml
+4132 13:12:00 INFO  Precompiling SPEAK Views: Done - time taking: 8737 milliseconds.
+6568 13:12:03 INFO  Config file renamed: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Sitecore.Marketing.Definitions.MarketingAssets.Repositories.Lucene.Index.Web.config.disabled. Old path: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Sitecore.Marketing.Definitions.MarketingAssets.Repositories.Lucene.Index.Web.config
+11240 13:12:05 INFO  Cache created: 'IsUserInRoleCache' (max size: 5MB, running total: 1049MB)
+11240 13:12:05 INFO  Trying to load XML configuration /App_Config/Security/GlobalRoles.config
+11240 13:12:05 INFO  Cache created: 'shell[html]' (max size: 0 bytes, running total: 1049MB)
+11240 13:12:05 INFO  Cache created: 'shell[registry]' (max size: 15MB, running total: 1064MB)
+11240 13:12:05 INFO  Cache created: 'shell[viewstate]' (max size: 1MB, running total: 1065MB)
+11240 13:12:05 INFO  Cache created: 'shell[xsl]' (max size: 25MB, running total: 1090MB)
+11240 13:12:05 INFO  Cache created: 'shell[filtered items]' (max size: 10MB, running total: 1100MB)
+11240 13:12:05 INFO  Cache created: 'login[html]' (max size: 0 bytes, running total: 1100MB)
+11240 13:12:05 INFO  Cache created: 'login[registry]' (max size: 25MB, running total: 1125MB)
+11240 13:12:05 INFO  Cache created: 'login[viewstate]' (max size: 25MB, running total: 1150MB)
+11240 13:12:05 INFO  Cache created: 'login[xsl]' (max size: 50MB, running total: 1200MB)
+11240 13:12:05 INFO  Cache created: 'login[filtered items]' (max size: 10MB, running total: 1210MB)
+11240 13:12:05 INFO  Cache created: 'admin[html]' (max size: 0 bytes, running total: 1210MB)
+11240 13:12:05 INFO  Cache created: 'admin[registry]' (max size: 25MB, running total: 1235MB)
+11240 13:12:05 INFO  Cache created: 'admin[viewstate]' (max size: 25MB, running total: 1260MB)
+11240 13:12:05 INFO  Cache created: 'admin[xsl]' (max size: 50MB, running total: 1310MB)
+11240 13:12:05 INFO  Cache created: 'admin[filtered items]' (max size: 10MB, running total: 1320MB)
+11240 13:12:05 INFO  Cache created: 'service[html]' (max size: 0 bytes, running total: 1320MB)
+11240 13:12:05 INFO  Cache created: 'service[registry]' (max size: 25MB, running total: 1345MB)
+11240 13:12:05 INFO  Cache created: 'service[viewstate]' (max size: 25MB, running total: 1370MB)
+11240 13:12:05 INFO  Cache created: 'service[xsl]' (max size: 50MB, running total: 1420MB)
+11240 13:12:05 INFO  Cache created: 'service[filtered items]' (max size: 10MB, running total: 1430MB)
+11240 13:12:05 INFO  Cache created: 'modules_shell[html]' (max size: 0 bytes, running total: 1430MB)
+11240 13:12:05 INFO  Cache created: 'modules_shell[registry]' (max size: 25MB, running total: 1455MB)
+11240 13:12:05 INFO  Cache created: 'modules_shell[viewstate]' (max size: 25MB, running total: 1480MB)
+11240 13:12:05 INFO  Cache created: 'modules_shell[xsl]' (max size: 50MB, running total: 1530MB)
+11240 13:12:05 INFO  Cache created: 'modules_shell[filtered items]' (max size: 10MB, running total: 1540MB)
+11240 13:12:05 INFO  Cache created: 'modules_website[html]' (max size: 25MB, running total: 1565MB)
+11240 13:12:05 INFO  Cache created: 'modules_website[registry]' (max size: 25MB, running total: 1590MB)
+11240 13:12:05 INFO  Cache created: 'modules_website[viewstate]' (max size: 25MB, running total: 1615MB)
+11240 13:12:05 INFO  Cache created: 'modules_website[xsl]' (max size: 50MB, running total: 1665MB)
+11240 13:12:05 INFO  Cache created: 'modules_website[filtered items]' (max size: 10MB, running total: 1675MB)
+11240 13:12:05 INFO  Cache created: 'website[html]' (max size: 50MB, running total: 1725MB)
+11240 13:12:05 INFO  Cache created: 'website[registry]' (max size: 0 bytes, running total: 1725MB)
+11240 13:12:05 INFO  Cache created: 'website[viewstate]' (max size: 0 bytes, running total: 1725MB)
+11240 13:12:05 INFO  Cache created: 'website[xsl]' (max size: 25MB, running total: 1750MB)
+11240 13:12:05 INFO  Cache created: 'website[filtered items]' (max size: 10MB, running total: 1760MB)
+11240 13:12:05 INFO  Cache created: 'website[renderingParameters]' (max size: 10MB, running total: 1770MB)
+11240 13:12:05 INFO  Cache created: 'scheduler[html]' (max size: 0 bytes, running total: 1770MB)
+11240 13:12:05 INFO  Cache created: 'scheduler[registry]' (max size: 25MB, running total: 1795MB)
+11240 13:12:05 INFO  Cache created: 'scheduler[viewstate]' (max size: 25MB, running total: 1820MB)
+11240 13:12:05 INFO  Cache created: 'scheduler[xsl]' (max size: 50MB, running total: 1870MB)
+11240 13:12:05 INFO  Cache created: 'scheduler[filtered items]' (max size: 10MB, running total: 1880MB)
+11240 13:12:05 INFO  Cache created: 'system[html]' (max size: 0 bytes, running total: 1880MB)
+11240 13:12:05 INFO  Cache created: 'system[registry]' (max size: 25MB, running total: 1905MB)
+11240 13:12:05 INFO  Cache created: 'system[viewstate]' (max size: 25MB, running total: 1930MB)
+11240 13:12:05 INFO  Cache created: 'system[xsl]' (max size: 50MB, running total: 1980MB)
+11240 13:12:05 INFO  Cache created: 'system[filtered items]' (max size: 10MB, running total: 1990MB)
+11240 13:12:05 INFO  Cache created: 'publisher[html]' (max size: 0 bytes, running total: 1990MB)
+11240 13:12:05 INFO  Cache created: 'publisher[registry]' (max size: 25MB, running total: 2015MB)
+11240 13:12:05 INFO  Cache created: 'publisher[viewstate]' (max size: 25MB, running total: 2040MB)
+11240 13:12:05 INFO  Cache created: 'publisher[xsl]' (max size: 50MB, running total: 2090MB)
+11240 13:12:05 INFO  Cache created: 'publisher[filtered items]' (max size: 10MB, running total: 2100MB)
+ManagedPoolThread #17 13:12:07 INFO  Trying to load XML configuration /App_Config/Security/GlobalRoles.config
+6568 13:12:14 INFO  Config file renamed: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Sitecore.Marketing.Definitions.MarketingAssets.Repositories.Lucene.IndexConfiguration.config.disabled. Old path: C:\Inetpub\wwwroot\TrainingSitecore\Website\App_Config\Include\Sitecore.Marketing.Definitions.MarketingAssets.Repositories.Lucene.IndexConfiguration.config
+11148 13:12:18 INFO  [Experience Analytics]: Reduce agent found zero segments to process
+6984 13:12:50 INFO  Cache created: 'SqlDataProvider - Prefetch data(master)' (max size: 100MB, running total: 2200MB)

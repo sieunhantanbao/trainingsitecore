@@ -1,0 +1,5 @@
+﻿7640 16:56:04 INFO  [Index=sitecore_analytics_index] Initializing TimedIndexStrategy with interval '00:01:00'.
+7640 16:56:04 INFO  [Index=sitecore_core_index] Initializing SitecoreItemCrawler. DB:core / Root:/sitecore
+7640 16:56:04 INFO  [Index=sitecore_core_index] Initializing IntervalAsynchronousUpdateStrategy with interval '00:01:00'.
+7640 16:56:04 INFO  [Index=sitecore_master_index] Initializing SitecoreItemCrawler. DB:master / Root:/sitecore
+7640 16:56:04 INFO  [Index=sitecore_master_index] Initializing SynchronousStrategy.

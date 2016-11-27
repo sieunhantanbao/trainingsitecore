@@ -1,0 +1,2 @@
+﻿ManagedPoolThread #15 11:12:04 WARN  Stopping indexing while package is being installed.
+6788 11:12:04 WARN  Resuming indexing after package has been installed.

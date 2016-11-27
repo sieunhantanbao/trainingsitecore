@@ -1,0 +1,2 @@
+﻿10676 14:27:07 WARN  A duplicate setting "ContentSearch.SearchMaxResults" has been detected in the Sitecore.ContentSearch.Solr.DefaultIndexConfiguration.config file. The value of the setting will be changed to "500".
+10676 14:27:07 WARN  A duplicate setting "ContentSearch.DefaultIndexConfigurationPath" has been detected in the Sitecore.ContentSearch.Solr.DefaultIndexConfiguration.config file. The value of the setting will be changed to "contentSearch/indexConfigurations/defaultSolrIndexConfiguration".

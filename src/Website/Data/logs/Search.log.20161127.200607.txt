@@ -1,0 +1,3 @@
+﻿10140 20:07:54 INFO  Warming and Caching your search indexes
+10140 20:07:54 INFO  /******* Warming Queries ********/
+10140 20:07:54 INFO  /*************************/

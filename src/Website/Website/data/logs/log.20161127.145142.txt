@@ -1,0 +1,4 @@
+﻿9180 14:51:42 WARN  A duplicate setting "ContentSearch.SearchMaxResults" has been detected in the Sitecore.ContentSearch.Solr.DefaultIndexConfiguration.config file. The value of the setting will be changed to "500".
+9180 14:51:43 WARN  The "MaxWorkerThreads" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "20"
+9180 14:51:45 WARN  A duplicate setting "ContentSearch.DefaultIndexConfigurationPath" has been detected in the Sitecore.ContentSearch.Solr.DefaultIndexConfiguration.config file. The value of the setting will be changed to "contentSearch/indexConfigurations/defaultSolrIndexConfiguration".
+9180 14:51:45 WARN  The "Media.FileSystemWatcherBufferSize" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "8192"

@@ -1,0 +1,23 @@
+﻿3480 00:00:44 INFO  Warming and Caching your search indexes
+3480 00:00:44 INFO  /******* Warming Queries ********/
+3480 00:00:44 INFO  /*************************/
+11132 00:10:57 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): host:110d559fdea542ea9c1c8a5df7e70ef9en - Filter : 
+11132 00:10:59 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): host:110d559fdea542ea9c1c8a5df7e70ef9ja-jp - Filter : 
+11132 00:11:01 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): host:110d559fdea542ea9c1c8a5df7e70ef9de-de - Filter : 
+11132 00:11:01 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): host:110d559fdea542ea9c1c8a5df7e70ef9da - Filter : 
+ManagedPoolThread #3 01:00:55 WARN  Your query is using non UTC dates. field:posted_date value: 1/1/0001 12:00:00 AM. You will probably have incorrect search result.
+ManagedPoolThread #3 01:00:55 WARN  Your query is using non UTC dates. field:posted_date value: 1/1/0001 12:00:00 AM. You will probably have incorrect search result.
+ManagedPoolThread #3 01:00:56 INFO  ExecuteQueryAgainstLucene (social_messages_master): +posted_date:[00010101t000000000z TO 00010101t000000000z] +(final_workflow_state:1 workflow_state:00000000000000000000000000000000) +(_template:d7851f00e8694f9381f5b5338eff58a9 _template:06751e29d91b423ca2e1e54afd4f8f0b _template:e28734ca89eb4530b0e4b81f6645a372) - Filter : 
+ManagedPoolThread #0 01:00:57 WARN  Your query is using non UTC dates. field:posted_date value: 1/1/0001 12:00:00 AM. You will probably have incorrect search result.
+ManagedPoolThread #0 01:00:57 WARN  Your query is using non UTC dates. field:posted_date value: 1/1/0001 12:00:00 AM. You will probably have incorrect search result.
+ManagedPoolThread #0 01:00:58 INFO  ExecuteQueryAgainstLucene (social_messages_master): +(-posted_date:[00010101t000000000z TO 00010101t000000000z] +*:*) +(_template:d7851f00e8694f9381f5b5338eff58a9 _template:06751e29d91b423ca2e1e54afd4f8f0b _template:e28734ca89eb4530b0e4b81f6645a372) - Filter : 
+5444 01:06:06 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): +__is_running:1 +SpanWildcardQuery(datasourceitems:*110d559fdea542ea9c1c8a5df7e70ef9*) - Filter : 
+5444 01:06:52 INFO  ExecuteQueryAgainstLucene (social_messages_master): +container:master110d559fdea542ea9c1c8a5df7e70ef9en +(_template:a6575aec8bc54591b7308fcdc0ccddb5 _template:7e49b0aa5eba4a02852c4744e2288ac2) - Filter : 
+ManagedPoolThread #5 10:08:06 WARN  Your query is using non UTC dates. field:posted_date value: 1/1/0001 12:00:00 AM. You will probably have incorrect search result.
+ManagedPoolThread #5 10:08:06 WARN  Your query is using non UTC dates. field:posted_date value: 1/1/0001 12:00:00 AM. You will probably have incorrect search result.
+ManagedPoolThread #5 10:08:06 INFO  ExecuteQueryAgainstLucene (social_messages_master): +posted_date:[00010101t000000000z TO 00010101t000000000z] +(final_workflow_state:1 workflow_state:00000000000000000000000000000000) +(_template:d7851f00e8694f9381f5b5338eff58a9 _template:06751e29d91b423ca2e1e54afd4f8f0b _template:e28734ca89eb4530b0e4b81f6645a372) - Filter : 
+ManagedPoolThread #19 10:08:07 WARN  Your query is using non UTC dates. field:posted_date value: 1/1/0001 12:00:00 AM. You will probably have incorrect search result.
+ManagedPoolThread #19 10:08:07 WARN  Your query is using non UTC dates. field:posted_date value: 1/1/0001 12:00:00 AM. You will probably have incorrect search result.
+ManagedPoolThread #19 10:08:07 INFO  ExecuteQueryAgainstLucene (social_messages_master): +(-posted_date:[00010101t000000000z TO 00010101t000000000z] +*:*) +(_template:d7851f00e8694f9381f5b5338eff58a9 _template:06751e29d91b423ca2e1e54afd4f8f0b _template:e28734ca89eb4530b0e4b81f6645a372) - Filter : 
+7040 10:10:25 INFO  ExecuteQueryAgainstLucene (sitecore_testing_index): +__is_running:1 +SpanWildcardQuery(datasourceitems:*110d559fdea542ea9c1c8a5df7e70ef9*) - Filter : 
+7040 10:10:27 INFO  ExecuteQueryAgainstLucene (social_messages_master): +container:master110d559fdea542ea9c1c8a5df7e70ef9en +(_template:a6575aec8bc54591b7308fcdc0ccddb5 _template:7e49b0aa5eba4a02852c4744e2288ac2) - Filter : 

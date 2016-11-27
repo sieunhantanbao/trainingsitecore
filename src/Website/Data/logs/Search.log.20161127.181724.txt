@@ -1,0 +1,9 @@
+﻿2052 18:18:42 INFO  Warming and Caching your search indexes
+2052 18:18:42 INFO  /******* Warming Queries ********/
+2052 18:18:42 INFO  /*************************/
+ManagedPoolThread #18 19:18:51 WARN  Your query is using non UTC dates. field:posted_date_tdt value: 1/1/0001 12:00:00 AM. You will probably have incorrect search result.
+ManagedPoolThread #18 19:18:51 INFO  Query - ((posted_date_tdt:(0001\-01\-01T00\:00\:00Z) AND (final_workflow_state_b:(True) OR workflow_state_s:(00000000000000000000000000000000))) AND (_template:(d7851f00e8694f9381f5b5338eff58a9) OR _template:(06751e29d91b423ca2e1e54afd4f8f0b) OR _template:(e28734ca89eb4530b0e4b81f6645a372)))
+ManagedPoolThread #18 19:18:52 INFO  Serialized Query - ?q=((posted_date_tdt:(0001\-01\-01T00\:00\:00Z) AND (final_workflow_state_b:(True) OR workflow_state_s:(00000000000000000000000000000000))) AND (_template:(d7851f00e8694f9381f5b5338eff58a9) OR _template:(06751e29d91b423ca2e1e54afd4f8f0b) OR _template:(e28734ca89eb4530b0e4b81f6645a372)))&rows=500&fq=_indexname:(social_messages_master)
+ManagedPoolThread #2 19:18:56 WARN  Your query is using non UTC dates. field:posted_date_tdt value: 1/1/0001 12:00:00 AM. You will probably have incorrect search result.
+ManagedPoolThread #2 19:18:56 INFO  Query - (-posted_date_tdt:(0001\-01\-01T00\:00\:00Z) AND (_template:(d7851f00e8694f9381f5b5338eff58a9) OR _template:(06751e29d91b423ca2e1e54afd4f8f0b) OR _template:(e28734ca89eb4530b0e4b81f6645a372)))
+ManagedPoolThread #2 19:18:56 INFO  Serialized Query - ?q=(-posted_date_tdt:(0001\-01\-01T00\:00\:00Z) AND (_template:(d7851f00e8694f9381f5b5338eff58a9) OR _template:(06751e29d91b423ca2e1e54afd4f8f0b) OR _template:(e28734ca89eb4530b0e4b81f6645a372)))&rows=500&fq=_indexname:(social_messages_master)

@@ -1,0 +1,40 @@
+﻿2052 17:53:34 WARN  A duplicate setting "ContentSearch.SearchMaxResults" has been detected in the Sitecore.ContentSearch.Solr.DefaultIndexConfiguration.config file. The value of the setting will be changed to "500".
+2052 17:53:35 WARN  The "MaxWorkerThreads" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "20"
+2052 17:53:37 WARN  A duplicate setting "ContentSearch.DefaultIndexConfigurationPath" has been detected in the Sitecore.ContentSearch.Solr.DefaultIndexConfiguration.config file. The value of the setting will be changed to "contentSearch/indexConfigurations/defaultSolrIndexConfiguration".
+2052 17:53:37 WARN  The "Media.FileSystemWatcherBufferSize" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "8192"
+2052 17:53:39 WARN  The "Rules.MaxCachedRules" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "819200"
+2052 17:53:39 INFO  Heartbeat - Initializing
+2052 17:53:39 INFO  Heartbeat - Interval set to: 00:00:02
+2052 17:53:39 INFO  Heartbeat - Worker thread started
+2052 17:53:39 WARN  The "Caching.DebugEnabled" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "False"
+2052 17:53:39 INFO  Cache created: 'rules' (max size: 800KB, running total: 800KB)
+2052 17:53:39 INFO  Cache created: '[FieldReaderCache]' (max size: 5MB, running total: 5MB)
+2052 17:53:41 INFO  Cache created: 'DeviceItemsCache' (max size: 50MB, running total: 55MB)
+2052 17:53:41 INFO  Cache created: 'core[data]' (max size: 100MB, running total: 155MB)
+2052 17:53:41 INFO  Cache created: 'core[items]' (max size: 50MB, running total: 205MB)
+2052 17:53:41 INFO  Cache created: 'core[paths]' (max size: 2MB, running total: 208MB)
+2052 17:53:41 INFO  Cache created: 'core[standardValues]' (max size: 2MB, running total: 210MB)
+2052 17:53:41 INFO  Cache created: 'core[itempaths]' (max size: 50MB, running total: 260MB)
+2052 17:53:41 INFO  Cache created: 'core[blobIDs]' (max size: 500KB, running total: 261MB)
+2052 17:53:42 WARN  The "EventQueue.Enabled" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "True"
+2052 17:53:42 INFO  Cache created: 'master[data]' (max size: 100MB, running total: 361MB)
+2052 17:53:42 INFO  Cache created: 'master[items]' (max size: 50MB, running total: 411MB)
+2052 17:53:42 INFO  Cache created: 'master[paths]' (max size: 2MB, running total: 413MB)
+2052 17:53:42 INFO  Cache created: 'master[standardValues]' (max size: 2MB, running total: 416MB)
+2052 17:53:42 INFO  Cache created: 'master[itempaths]' (max size: 50MB, running total: 466MB)
+2052 17:53:42 INFO  Cache created: 'master[blobIDs]' (max size: 500KB, running total: 466MB)
+2052 17:53:43 INFO  Cache created: 'web[data]' (max size: 100MB, running total: 566MB)
+2052 17:53:43 INFO  Cache created: 'web[items]' (max size: 50MB, running total: 616MB)
+2052 17:53:43 INFO  Cache created: 'web[paths]' (max size: 2MB, running total: 618MB)
+2052 17:53:43 INFO  Cache created: 'web[standardValues]' (max size: 2MB, running total: 621MB)
+2052 17:53:43 INFO  Cache created: 'web[itempaths]' (max size: 50MB, running total: 671MB)
+2052 17:53:43 INFO  Cache created: 'web[blobIDs]' (max size: 500KB, running total: 671MB)
+Heartbeat 17:53:45 INFO  Cache created: 'filesystem[data]' (max size: 0 bytes, running total: 671MB)
+Heartbeat 17:53:45 INFO  Cache created: 'filesystem[items]' (max size: 0 bytes, running total: 671MB)
+Heartbeat 17:53:45 INFO  Cache created: 'filesystem[paths]' (max size: 0 bytes, running total: 671MB)
+Heartbeat 17:53:45 INFO  Cache created: 'filesystem[standardValues]' (max size: 0 bytes, running total: 671MB)
+Heartbeat 17:53:45 INFO  Cache created: 'filesystem[itempaths]' (max size: 50MB, running total: 721MB)
+Heartbeat 17:53:45 INFO  Cache created: 'filesystem[blobIDs]' (max size: 500KB, running total: 722MB)
+Heartbeat 17:53:46 INFO  Cache created: 'SqlDataProvider - Property data(core)' (max size: 500KB, running total: 722MB)
+Heartbeat 17:53:47 INFO  Cache created: 'SqlDataProvider - Property data(master)' (max size: 500KB, running total: 723MB)
+Heartbeat 17:53:48 INFO  Cache created: 'SqlDataProvider - Property data(web)' (max size: 500KB, running total: 723MB)

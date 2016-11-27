@@ -1,0 +1,69 @@
+﻿10848 15:20:05 WARN  A duplicate setting "ContentSearch.SearchMaxResults" has been detected in the Sitecore.ContentSearch.Solr.DefaultIndexConfiguration.config file. The value of the setting will be changed to "500".
+10848 15:20:05 WARN  The "MaxWorkerThreads" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "20"
+10848 15:20:08 WARN  A duplicate setting "ContentSearch.DefaultIndexConfigurationPath" has been detected in the Sitecore.ContentSearch.Solr.DefaultIndexConfiguration.config file. The value of the setting will be changed to "contentSearch/indexConfigurations/defaultSolrIndexConfiguration".
+10848 15:20:08 WARN  The "Media.FileSystemWatcherBufferSize" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "8192"
+10848 15:20:09 WARN  The "Rules.MaxCachedRules" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "819200"
+10848 15:20:09 INFO  Heartbeat - Initializing
+10848 15:20:09 INFO  Heartbeat - Interval set to: 00:00:02
+10848 15:20:09 INFO  Heartbeat - Worker thread started
+10848 15:20:09 WARN  The "Caching.DebugEnabled" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "False"
+10848 15:20:10 INFO  Cache created: 'rules' (max size: 800KB, running total: 800KB)
+10848 15:20:10 INFO  Cache created: '[FieldReaderCache]' (max size: 5MB, running total: 5MB)
+10848 15:20:12 INFO  Cache created: 'DeviceItemsCache' (max size: 50MB, running total: 55MB)
+10848 15:20:12 INFO  Cache created: 'core[data]' (max size: 100MB, running total: 155MB)
+10848 15:20:12 INFO  Cache created: 'core[items]' (max size: 50MB, running total: 205MB)
+10848 15:20:12 INFO  Cache created: 'core[paths]' (max size: 2MB, running total: 208MB)
+10848 15:20:12 INFO  Cache created: 'core[standardValues]' (max size: 2MB, running total: 210MB)
+10848 15:20:12 INFO  Cache created: 'core[itempaths]' (max size: 50MB, running total: 260MB)
+10848 15:20:13 INFO  Cache created: 'core[blobIDs]' (max size: 500KB, running total: 261MB)
+10848 15:20:13 WARN  The "EventQueue.Enabled" setting contains an invalid value. The default value is used instead. Invalid value: "". Default value: "True"
+10848 15:20:14 INFO  Cache created: 'master[data]' (max size: 100MB, running total: 361MB)
+10848 15:20:14 INFO  Cache created: 'master[items]' (max size: 50MB, running total: 411MB)
+10848 15:20:14 INFO  Cache created: 'master[paths]' (max size: 2MB, running total: 413MB)
+10848 15:20:14 INFO  Cache created: 'master[standardValues]' (max size: 2MB, running total: 416MB)
+10848 15:20:14 INFO  Cache created: 'master[itempaths]' (max size: 50MB, running total: 466MB)
+10848 15:20:14 INFO  Cache created: 'master[blobIDs]' (max size: 500KB, running total: 466MB)
+10848 15:20:14 INFO  Cache created: 'web[data]' (max size: 100MB, running total: 566MB)
+10848 15:20:14 INFO  Cache created: 'web[items]' (max size: 50MB, running total: 616MB)
+10848 15:20:14 INFO  Cache created: 'web[paths]' (max size: 2MB, running total: 618MB)
+10848 15:20:14 INFO  Cache created: 'web[standardValues]' (max size: 2MB, running total: 621MB)
+10848 15:20:14 INFO  Cache created: 'web[itempaths]' (max size: 50MB, running total: 671MB)
+10848 15:20:14 INFO  Cache created: 'web[blobIDs]' (max size: 500KB, running total: 671MB)
+Heartbeat 15:20:16 INFO  Cache created: 'filesystem[data]' (max size: 0 bytes, running total: 671MB)
+Heartbeat 15:20:16 INFO  Cache created: 'filesystem[items]' (max size: 0 bytes, running total: 671MB)
+Heartbeat 15:20:16 INFO  Cache created: 'filesystem[paths]' (max size: 0 bytes, running total: 671MB)
+Heartbeat 15:20:16 INFO  Cache created: 'filesystem[standardValues]' (max size: 0 bytes, running total: 671MB)
+Heartbeat 15:20:16 INFO  Cache created: 'filesystem[itempaths]' (max size: 50MB, running total: 721MB)
+Heartbeat 15:20:16 INFO  Cache created: 'filesystem[blobIDs]' (max size: 500KB, running total: 722MB)
+Heartbeat 15:20:17 INFO  Cache created: 'SqlDataProvider - Property data(core)' (max size: 500KB, running total: 722MB)
+Heartbeat 15:20:18 INFO  Cache created: 'SqlDataProvider - Property data(master)' (max size: 500KB, running total: 723MB)
+Heartbeat 15:20:19 INFO  Cache created: 'SqlDataProvider - Property data(web)' (max size: 500KB, running total: 723MB)
+10848 15:20:21 ERROR Unable to connect to [http://localhost:8983/solr], Core: [sitecore_analytics_index]
+Exception: SolrNet.Exceptions.SolrConnectionException
+Message: <html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<title>Error 404 Not Found</title>
+</head>
+<body><h2>HTTP ERROR 404</h2>
+<p>Problem accessing /solr/sitecore_analytics_index/admin/file. Reason:
+<pre>    Not Found</pre></p>
+</body>
+</html>
+
+Source: SolrNet
+   at SolrNet.Impl.SolrConnection.Get(String relativeUrl, IEnumerable`1 parameters)
+   at SolrNet.Impl.SolrBasicServer`1.GetSchema()
+   at Sitecore.ContentSearch.SolrProvider.SolrSearchIndex.Initialize()
+
+Nested Exception
+
+Exception: System.Net.WebException
+Message: The remote server returned an error: (404) Not Found.
+Source: System
+   at System.Net.HttpWebRequest.GetResponse()
+   at HttpWebAdapters.Adapters.HttpWebRequestAdapter.GetResponse()
+   at SolrNet.Impl.SolrConnection.GetResponse(IHttpWebRequest request)
+   at SolrNet.Impl.SolrConnection.Get(String relativeUrl, IEnumerable`1 parameters)
+
+

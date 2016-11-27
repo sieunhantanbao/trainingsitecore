@@ -1,0 +1,7 @@
+﻿8700 21:38:59 INFO  Warming and Caching your search indexes
+8700 21:38:59 INFO  /******* Warming Queries ********/
+8700 21:38:59 INFO  /*************************/
+13256 21:51:41 INFO  Query - (__is_running_b:(True) AND datasourceitems_t:(*110D559FDEA542EA9C1C8A5DF7E70EF9*))
+13256 21:51:41 INFO  Serialized Query - ?q=(__is_running_b:(True) AND datasourceitems_t:(*110D559FDEA542EA9C1C8A5DF7E70EF9*))&rows=500&fq=_indexname:(sitecore_testing_index)
+13256 21:52:01 INFO  Query - (container_s:(master110d559fdea542ea9c1c8a5df7e70ef9en) AND (_template:(a6575aec8bc54591b7308fcdc0ccddb5) OR _template:(7e49b0aa5eba4a02852c4744e2288ac2)))
+13256 21:52:01 INFO  Serialized Query - ?q=(container_s:(master110d559fdea542ea9c1c8a5df7e70ef9en) AND (_template:(a6575aec8bc54591b7308fcdc0ccddb5) OR _template:(7e49b0aa5eba4a02852c4744e2288ac2)))&rows=500&fq=_indexname:(social_messages_master)

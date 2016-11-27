@@ -1,0 +1,17 @@
+﻿4980 13:30:56 INFO  [Recovery]: Setting default publish recovery strategy.
+4980 13:30:56 INFO  [Recovery]: Publish Recovery Enabled - False
+4980 13:30:56 INFO  [Recovery]: Publish Recovery Strategy - DatabasePublishRecoveryStrategy
+4980 13:30:56 INFO  Settings.Publishing.AutoScheduleSmartPublish:True
+4980 13:30:56 INFO  Settings.Publishing.CheckSecurity:False
+4980 13:30:56 INFO  Settings.Publishing.CompareRevisions:True
+4980 13:30:56 INFO  Settings.Publishing.DisableDatabaseCaches:False
+4980 13:30:56 INFO  Settings.Publishing.ExecuteInManagedThreadPool:False
+4980 13:30:56 INFO  Settings.Publishing.LogInterval:0
+4980 13:30:56 INFO  Settings.Publishing.MaxDegreeOfParallelism:1
+4980 13:30:56 INFO  Settings.Publishing.PublishDialogPollingInterval:500
+4980 13:30:56 INFO  Settings.Publishing.PublishEmptyItems:False
+4980 13:30:56 INFO  Settings.Publishing.PublishingInstance:DESKTOP-KS0TRF3-TrainingSitecore
+4980 13:30:56 INFO  Settings.Publishing.RequireTargetDeleteRightWhenCheckingSecurity:True
+4980 13:30:56 INFO  Settings.Publishing.StatusUpdateInterval:00:00:02
+4980 13:30:56 INFO  Settings.Publishing.ThreadPriority:BelowNormal
+4980 13:30:56 INFO  Settings.Publishing.TimeBeforeStatusExpires:02:00:00

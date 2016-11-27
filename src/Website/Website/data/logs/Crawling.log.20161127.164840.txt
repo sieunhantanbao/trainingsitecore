@@ -1,0 +1,1 @@
+﻿7640 16:48:53 INFO  [Index=sitecore_analytics_index] Initializing TimedIndexStrategy with interval '00:01:00'.

@@ -1,0 +1,3 @@
+﻿2052 17:59:52 INFO  Warming and Caching your search indexes
+2052 17:59:52 INFO  /******* Warming Queries ********/
+2052 17:59:52 INFO  /*************************/
